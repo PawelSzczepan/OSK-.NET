@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="OSK1.exe" version="1.0.0.2" publicKeyToken="08d8e8c102b9776b" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="OSK1" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="OSK1.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          Opcje manifestu kontroli konta użytkownika
+          Jeśli chcesz zmienić poziom kontroli konta użytkownika systemu Windows, zastąp węzeł 
+          requestedExecutionLevel jednym z następujących.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         Jeśli chcesz użyć wirtualizacji plików i rejestru do celów zgodności wstecznej, 
+         usuń węzeł requestedExecutionLevel.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="OSK1.exe" size="173024">
+      <assemblyIdentity name="OSK1" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>kukp3vGeSTkqqAzZmqBE2epHpZ6mKk3P1qowhFIl+cQ=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="OSK1.exe.config" size="189">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>R+Wg8QGvQVHX8T0ta/qbhH1bXkqY0fRnS3wBV3J0bN8=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=DESKTOP-HV5KUPJ\szcze" issuerKeyHash="121f3b70562f79abb4c61abb402529365b61590c" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>+PUI1gskXChR270/QiAJjvr9y3srFcZpcwIKtgtccx4=</DigestValue></Reference></SignedInfo><SignatureValue>T3kNXREvqf54VVNEtww6TS+8qu3vfafZeRgIB0jkx3I159CGiESdNBFI28G/6bdiq6XN6D7U4sAT7q/VNG+U/gLiBmY0pVUqHH0CVy/bYrm1fHgUKZnFz50rec+TVVJQgO+/lJirAW4wqENDQWHIUN9Z+MHEjWpDKvNrzgh1vCw=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>1agqRvWtxgrOACDk8rPIU5/O25XZS4xzT902bJ1Mj2Ey0BQEN8ggOvFdfcXjel32AnwoV444YCgtss40FQoJ9wPLfbKIyJLykBYpWrQbMBwb7CVLrREueXkKiZNQemToDuLqrQzTt7kwfZ5yCZwF+R5E8NyAsgpxZyQprDnzczE=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="1e735c0bb60a027369c6152b7bcbfdfa8e0920423fbddb51285c240bd608f5f8" Description="" Url=""><as:assemblyIdentity name="OSK1.exe" version="1.0.0.2" publicKeyToken="08d8e8c102b9776b" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=DESKTOP-HV5KUPJ\szcze</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>9NtSeEJ/+5DWQmkrpeUPlb8fN2ub+q7Og4gWXaREaJM=</DigestValue></Reference></SignedInfo><SignatureValue>1OFYQ60Z+2Km2g057yehlXo2SBVHj1iVg3R34rA93CdqMj1k68uG/Os6MkLttfWYTMGrRPQQVeMDD0SUk08eD1GEJNCVdrqJgta5h1X5xB6rCGPs614rsusii4dGnI8Zr15eUolut23woAZ9FnxQXEDQsXfhAXIBpoRVKs93mRw=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>1agqRvWtxgrOACDk8rPIU5/O25XZS4xzT902bJ1Mj2Ey0BQEN8ggOvFdfcXjel32AnwoV444YCgtss40FQoJ9wPLfbKIyJLykBYpWrQbMBwb7CVLrREueXkKiZNQemToDuLqrQzTt7kwfZ5yCZwF+R5E8NyAsgpxZyQprDnzczE=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB7TCCAVagAwIBAgIQF9yiYO188qpPpcNsbQHj8TANBgkqhkiG9w0BAQsFADA1MTMwMQYDVQQDHioARABFAFMASwBUAE8AUAAtAEgAVgA1AEsAVQBQAEoAXABzAHoAYwB6AGUwHhcNMjQwNDAyMTYyNTA2WhcNMjUwNDAyMjIyNTA2WjA1MTMwMQYDVQQDHioARABFAFMASwBUAE8AUAAtAEgAVgA1AEsAVQBQAEoAXABzAHoAYwB6AGUwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBANWoKkb1rcYKzgAg5PKzyFOfztuV2UuMc0/dNmydTI9hMtAUBDfIIDrxXX3F43pd9gJ8KFeOOGAoLbLONBUKCfcDy32yiMiS8pAWKVq0GzAcG+wlS60RLnl5ComTUHpk6A7i6q0M07e5MH2ecgmcBfkeRPDcgLIKcWckKaw583MxAgMBAAEwDQYJKoZIhvcNAQELBQADgYEAMuPr7wZtSrgPDVvjbPqCeiNmQ5lXxpCaN1mxO8BkYapA9+bDyG3UdulWFA2W7b6ZHFeO78NFra3T1yGexyExdHcP8DTNEarPNIZnm67q5IHZrQPZAB36UOB3qIj3b4RxIQpYGFj4vPdfEd4pNfl19KyutzB+Pe/nDAOirZjlu6s=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

@@ -1,0 +1,9 @@
+C:\Users\szcze\Desktop\OSK\OSK5\OSK5\bin\Release\OSK5.exe.config
+C:\Users\szcze\Desktop\OSK\OSK5\OSK5\bin\Release\OSK5.exe
+C:\Users\szcze\Desktop\OSK\OSK5\OSK5\bin\Release\OSK5.pdb
+C:\Users\szcze\Desktop\OSK\OSK5\OSK5\obj\Release\OSK5.Form1.resources
+C:\Users\szcze\Desktop\OSK\OSK5\OSK5\obj\Release\OSK5.Properties.Resources.resources
+C:\Users\szcze\Desktop\OSK\OSK5\OSK5\obj\Release\OSK5.csproj.GenerateResource.cache
+C:\Users\szcze\Desktop\OSK\OSK5\OSK5\obj\Release\OSK5.csproj.CoreCompileInputs.cache
+C:\Users\szcze\Desktop\OSK\OSK5\OSK5\obj\Release\OSK5.exe
+C:\Users\szcze\Desktop\OSK\OSK5\OSK5\obj\Release\OSK5.pdb

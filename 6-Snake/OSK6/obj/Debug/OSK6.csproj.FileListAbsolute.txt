@@ -1,0 +1,10 @@
+C:\Users\szcze\Desktop\OSK\OSK6\OSK6\bin\Debug\OSK6.exe.config
+C:\Users\szcze\Desktop\OSK\OSK6\OSK6\bin\Debug\OSK6.exe
+C:\Users\szcze\Desktop\OSK\OSK6\OSK6\bin\Debug\OSK6.pdb
+C:\Users\szcze\Desktop\OSK\OSK6\OSK6\obj\Debug\OSK6.csproj.AssemblyReference.cache
+C:\Users\szcze\Desktop\OSK\OSK6\OSK6\obj\Debug\OSK6.Form1.resources
+C:\Users\szcze\Desktop\OSK\OSK6\OSK6\obj\Debug\OSK6.Properties.Resources.resources
+C:\Users\szcze\Desktop\OSK\OSK6\OSK6\obj\Debug\OSK6.csproj.GenerateResource.cache
+C:\Users\szcze\Desktop\OSK\OSK6\OSK6\obj\Debug\OSK6.csproj.CoreCompileInputs.cache
+C:\Users\szcze\Desktop\OSK\OSK6\OSK6\obj\Debug\OSK6.exe
+C:\Users\szcze\Desktop\OSK\OSK6\OSK6\obj\Debug\OSK6.pdb

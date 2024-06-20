@@ -1,0 +1,12 @@
+C:\Users\szcze\Desktop\OSK\OSK3\OSK3\bin\Debug\OSK3.exe.config
+C:\Users\szcze\Desktop\OSK\OSK3\OSK3\bin\Debug\OSK3.exe
+C:\Users\szcze\Desktop\OSK\OSK3\OSK3\bin\Debug\OSK3.pdb
+C:\Users\szcze\Desktop\OSK\OSK3\OSK3\obj\Debug\OSK3.csproj.AssemblyReference.cache
+C:\Users\szcze\Desktop\OSK\OSK3\OSK3\obj\Debug\OSK3.Form1.resources
+C:\Users\szcze\Desktop\OSK\OSK3\OSK3\obj\Debug\OSK3.LoginForm.resources
+C:\Users\szcze\Desktop\OSK\OSK3\OSK3\obj\Debug\OSK3.Properties.Resources.resources
+C:\Users\szcze\Desktop\OSK\OSK3\OSK3\obj\Debug\OSK3.WakeUpForm.resources
+C:\Users\szcze\Desktop\OSK\OSK3\OSK3\obj\Debug\OSK3.csproj.GenerateResource.cache
+C:\Users\szcze\Desktop\OSK\OSK3\OSK3\obj\Debug\OSK3.csproj.CoreCompileInputs.cache
+C:\Users\szcze\Desktop\OSK\OSK3\OSK3\obj\Debug\OSK3.exe
+C:\Users\szcze\Desktop\OSK\OSK3\OSK3\obj\Debug\OSK3.pdb

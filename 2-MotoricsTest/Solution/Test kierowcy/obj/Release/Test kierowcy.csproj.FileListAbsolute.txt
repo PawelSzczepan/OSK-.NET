@@ -1,0 +1,28 @@
+C:\Users\szcze\Desktop\OSK\Test kierowcy\Test kierowcy\obj\Release\Test_kierowcy.Form1.resources
+C:\Users\szcze\Desktop\OSK\Test kierowcy\Test kierowcy\obj\Release\Test_kierowcy.Form2.resources
+C:\Users\szcze\Desktop\OSK\Test kierowcy\Test kierowcy\obj\Release\Test_kierowcy.Form3.resources
+C:\Users\szcze\Desktop\OSK\Test kierowcy\Test kierowcy\obj\Release\Test_kierowcy.Form4.resources
+C:\Users\szcze\Desktop\OSK\Test kierowcy\Test kierowcy\obj\Release\Test_kierowcy.Form5.resources
+C:\Users\szcze\Desktop\OSK\Test kierowcy\Test kierowcy\obj\Release\Test_kierowcy.Form6.resources
+C:\Users\szcze\Desktop\OSK\Test kierowcy\Test kierowcy\obj\Release\Test_kierowcy.Properties.Resources.resources
+C:\Users\szcze\Desktop\OSK\Test kierowcy\Test kierowcy\obj\Release\Test kierowcy.csproj.GenerateResource.cache
+C:\Users\szcze\Desktop\OSK\Test kierowcy\Test kierowcy\obj\Release\Test kierowcy.csproj.CoreCompileInputs.cache
+C:\Users\szcze\Desktop\OSK\Test kierowcy\Test kierowcy\obj\Release\Test kierowcy.exe
+C:\Users\szcze\Desktop\OSK\Test kierowcy\Test kierowcy\obj\Release\Test kierowcy.pdb
+C:\Users\szcze\Desktop\OSK\Test kierowcy\Test kierowcy\bin\Release\Test kierowcy.exe.config
+C:\Users\szcze\Desktop\OSK\Test kierowcy\Test kierowcy\bin\Release\Test kierowcy.exe
+C:\Users\szcze\Desktop\OSK\Test kierowcy\Test kierowcy\bin\Release\Test kierowcy.pdb
+C:\Users\szcze\Desktop\OSK\Test psychomotoryczny\Solution\Test kierowcy\bin\Release\Test kierowcy.exe.config
+C:\Users\szcze\Desktop\OSK\Test psychomotoryczny\Solution\Test kierowcy\bin\Release\Test kierowcy.exe
+C:\Users\szcze\Desktop\OSK\Test psychomotoryczny\Solution\Test kierowcy\bin\Release\Test kierowcy.pdb
+C:\Users\szcze\Desktop\OSK\Test psychomotoryczny\Solution\Test kierowcy\obj\Release\Test_kierowcy.Form1.resources
+C:\Users\szcze\Desktop\OSK\Test psychomotoryczny\Solution\Test kierowcy\obj\Release\Test_kierowcy.Form2.resources
+C:\Users\szcze\Desktop\OSK\Test psychomotoryczny\Solution\Test kierowcy\obj\Release\Test_kierowcy.Form3.resources
+C:\Users\szcze\Desktop\OSK\Test psychomotoryczny\Solution\Test kierowcy\obj\Release\Test_kierowcy.Form4.resources
+C:\Users\szcze\Desktop\OSK\Test psychomotoryczny\Solution\Test kierowcy\obj\Release\Test_kierowcy.Form5.resources
+C:\Users\szcze\Desktop\OSK\Test psychomotoryczny\Solution\Test kierowcy\obj\Release\Test_kierowcy.Form6.resources
+C:\Users\szcze\Desktop\OSK\Test psychomotoryczny\Solution\Test kierowcy\obj\Release\Test_kierowcy.Properties.Resources.resources
+C:\Users\szcze\Desktop\OSK\Test psychomotoryczny\Solution\Test kierowcy\obj\Release\Test kierowcy.csproj.GenerateResource.cache
+C:\Users\szcze\Desktop\OSK\Test psychomotoryczny\Solution\Test kierowcy\obj\Release\Test kierowcy.csproj.CoreCompileInputs.cache
+C:\Users\szcze\Desktop\OSK\Test psychomotoryczny\Solution\Test kierowcy\obj\Release\Test kierowcy.exe
+C:\Users\szcze\Desktop\OSK\Test psychomotoryczny\Solution\Test kierowcy\obj\Release\Test kierowcy.pdb

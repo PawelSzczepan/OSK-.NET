@@ -1,0 +1,33 @@
+C:\Users\szcze\source\repos\OSK1\OSK1\bin\Debug\OSK1.exe.config
+C:\Users\szcze\source\repos\OSK1\OSK1\bin\Debug\OSK1.exe
+C:\Users\szcze\source\repos\OSK1\OSK1\bin\Debug\OSK1.pdb
+C:\Users\szcze\source\repos\OSK1\OSK1\obj\Debug\OSK1.Form1.resources
+C:\Users\szcze\source\repos\OSK1\OSK1\obj\Debug\OSK1.Properties.Resources.resources
+C:\Users\szcze\source\repos\OSK1\OSK1\obj\Debug\OSK1.csproj.GenerateResource.cache
+C:\Users\szcze\source\repos\OSK1\OSK1\obj\Debug\OSK1.csproj.CoreCompileInputs.cache
+C:\Users\szcze\source\repos\OSK1\OSK1\obj\Debug\OSK1.exe
+C:\Users\szcze\source\repos\OSK1\OSK1\obj\Debug\OSK1.pdb
+C:\Users\szcze\source\repos\Kółko i krzyżyk\OSK1\OSK1\bin\Debug\OSK1.exe.config
+C:\Users\szcze\source\repos\Kółko i krzyżyk\OSK1\OSK1\bin\Debug\OSK1.exe
+C:\Users\szcze\source\repos\Kółko i krzyżyk\OSK1\OSK1\bin\Debug\OSK1.pdb
+C:\Users\szcze\source\repos\Kółko i krzyżyk\OSK1\OSK1\obj\Debug\OSK1.csproj.AssemblyReference.cache
+C:\Users\szcze\source\repos\Kółko i krzyżyk\OSK1\OSK1\obj\Debug\OSK1.Form1.resources
+C:\Users\szcze\source\repos\Kółko i krzyżyk\OSK1\OSK1\obj\Debug\OSK1.Properties.Resources.resources
+C:\Users\szcze\source\repos\Kółko i krzyżyk\OSK1\OSK1\obj\Debug\OSK1.csproj.GenerateResource.cache
+C:\Users\szcze\source\repos\Kółko i krzyżyk\OSK1\OSK1\obj\Debug\OSK1.csproj.CoreCompileInputs.cache
+C:\Users\szcze\source\repos\Kółko i krzyżyk\OSK1\OSK1\obj\Debug\OSK1.exe
+C:\Users\szcze\source\repos\Kółko i krzyżyk\OSK1\OSK1\obj\Debug\OSK1.pdb
+C:\Users\szcze\Desktop\OSK\Kółko i krzyżyk\OSK1\OSK1\bin\Debug\OSK1.exe.config
+C:\Users\szcze\Desktop\OSK\Kółko i krzyżyk\OSK1\OSK1\bin\Debug\OSK1.exe
+C:\Users\szcze\Desktop\OSK\Kółko i krzyżyk\OSK1\OSK1\bin\Debug\OSK1.pdb
+C:\Users\szcze\Desktop\OSK\Kółko i krzyżyk\OSK1\OSK1\obj\Debug\OSK1.csproj.AssemblyReference.cache
+C:\Users\szcze\Desktop\OSK\Kółko i krzyżyk\OSK1\OSK1\obj\Debug\OSK1.Form1.resources
+C:\Users\szcze\Desktop\OSK\Kółko i krzyżyk\OSK1\OSK1\obj\Debug\OSK1.Properties.Resources.resources
+C:\Users\szcze\Desktop\OSK\Kółko i krzyżyk\OSK1\OSK1\obj\Debug\OSK1.csproj.GenerateResource.cache
+C:\Users\szcze\Desktop\OSK\Kółko i krzyżyk\OSK1\OSK1\obj\Debug\OSK1.csproj.CoreCompileInputs.cache
+C:\Users\szcze\Desktop\OSK\Kółko i krzyżyk\OSK1\OSK1\obj\Debug\OSK1.exe
+C:\Users\szcze\Desktop\OSK\Kółko i krzyżyk\OSK1\OSK1\obj\Debug\OSK1.pdb
+C:\Users\szcze\Desktop\OSK\Kółko i krzyżyk\OSK1\OSK1\bin\Debug\OSK1.exe.manifest
+C:\Users\szcze\Desktop\OSK\Kółko i krzyżyk\OSK1\OSK1\bin\Debug\OSK1.application
+C:\Users\szcze\Desktop\OSK\Kółko i krzyżyk\OSK1\OSK1\obj\Debug\OSK1.exe.manifest
+C:\Users\szcze\Desktop\OSK\Kółko i krzyżyk\OSK1\OSK1\obj\Debug\OSK1.application

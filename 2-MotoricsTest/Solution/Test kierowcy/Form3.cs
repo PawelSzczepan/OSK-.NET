@@ -1,0 +1,95 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace Test_kierowcy
+{
+    public partial class Form3 : Form
+    {
+        public Form3(Form1 form)
+        {
+            InitializeComponent();
+            parent = form;
+        }
+
+        private void Form3_Load(object sender, EventArgs e)
+        {
+            this.CenterToScreen();
+
+            MessageBox.Show("W tym teście klikniji kolorowe pole. " +
+                "Gdy zmieni kolor na zielony kliknij lewym przyciem myszy. " +
+                "Gdy zmieni kolor na niebieski kliknij prawym przyciskiem myszy. " +
+                "Wykonaj teraz " + learningTests.ToString() + " testy próbne.");
+
+            r = new Random();
+            Reset();
+        }
+
+        private void timer1_Tick(object sender, EventArgs e)
+        {
+            timer1.Enabled = false;
+            canClick = true;
+            start = DateTime.Now;
+
+            if (!rightMouse)
+                button1.BackColor = Color.Green;
+            else
+                button1.BackColor = Color.Blue;
+        }
+
+        private void button1_MouseDown(object sender, MouseEventArgs e)
+        {
+            if (!canClick)
+                MessageBox.Show("Za szybko! Test zostanie powtórzony.");
+            else
+            {
+                if (e.Button.HasFlag(MouseButtons.Left))
+                    if (!rightMouse)
+                        Results();
+                    else
+                        MessageBox.Show("Zły przycisk myszy! Test zostanie powtórzony.");
+                else if (e.Button.HasFlag(MouseButtons.Right))
+                    if (rightMouse)
+                        Results();
+                    else
+                        MessageBox.Show("Zły przycisk myszy! Test zostanie powtórzony.");
+            }
+
+            Reset();
+        }
+
+        private void Results()
+        {
+            double result = (DateTime.Now - start).TotalMilliseconds;
+            MessageBox.Show("Czas reakcji " + result.ToString() + "ms");
+
+
+            if (testsPassed == learningTests - 1)
+                MessageBox.Show("Teraz rozpocznie się faktyczny test. Wykonaj go "
+                    + Form1.maxTests.ToString() + " razy.");
+            else if (testsPassed >= learningTests)
+                parent.AddResults(testsPassed - learningTests, result);
+
+            if (testsPassed >= Form1.maxTests + learningTests - 1)
+                this.Close();
+
+            testsPassed++;
+        }
+
+        private void Reset()
+        {
+            timer1.Interval = r.Next(Form1.wait[0], Form1.wait[1]);
+            timer1.Enabled = true;
+
+            rightMouse = r.NextDouble() < 0.5;
+            button1.BackColor = Color.Red;
+            canClick = false;
+        }
+    }
+}
